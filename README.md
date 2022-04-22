@@ -1,2 +1,2 @@
-# Stanford-CS224n-A4
-CS224n Assignment #4
+# NMT Assignment
+Note: Heavily inspired by the https://github.com/pcyin/pytorch_basic_nmt repository
