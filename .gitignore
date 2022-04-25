@@ -14,7 +14,6 @@
 *.jar
 *.rar
 *.tar
-*.zip
 
 # OS generated files #
 ######################
@@ -32,6 +31,9 @@ Thumbs.db
 *.pyc
 __pycache__
 
+## pytorch ckpts
+*.bin
+*.bin.optim
 
 ## internal use
 cluster_scripts
